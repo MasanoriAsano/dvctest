@@ -1,0 +1,5 @@
+outs:
+- md5: c4bdcd9f9446ffe79c6adb8b6fb9464d
+  size: 12109566560
+  hash: md5
+  path: gpt-oss-20b-mxf4p.gguf
